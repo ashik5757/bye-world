@@ -1,7 +1,9 @@
-#include<stdtio.h>
+#include <iostream>
+
+using namespace std;
 
 int main() {
 
-printf("bYE World");
+cout << "bYe worLd" << endl;
 
 }
